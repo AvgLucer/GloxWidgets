@@ -1,6 +1,6 @@
 # Glox Quartz
 <p align="center">
-  <img src="banner.png" alt="Glox Quartz Banner">
+  <img src="banner.jpg" alt="Glox Quartz Banner">
 </p>
 
 
