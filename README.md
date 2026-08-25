@@ -39,5 +39,10 @@ Some of the widgets currently included:
 
 And more are being developed.
 
+
+👨‍💻 Built By:
+AvgLucer | Gaurav W.
+Founder & CEO, Glox Industries
+
 ---
 
