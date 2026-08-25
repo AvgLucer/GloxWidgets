@@ -1,4 +1,9 @@
 # Glox Widgets
+<p align="center">
+  <img src="widgets.jpg" alt="Glox Widgets">
+</p>
+
+
 
 ![Glox Industries](https://img.shields.io/badge/Glox%20Industries-Glox%20Widgets-111111?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
