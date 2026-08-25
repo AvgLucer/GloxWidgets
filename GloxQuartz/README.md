@@ -68,3 +68,8 @@ python gloxquartz.py
 > If you use, modify, or showcase Glox Quartz, please provide proper credit to **Glox Industries / AvgLucer** and link back to the original **GloxWidgets** repository.
 >
 > Unauthorized redistribution, rebranding, or representation of the project as an independently developed work is not permitted.
+
+
+👨‍💻 Built By:
+AvgLucer | Gaurav W.
+Founder & CEO, Glox Industries
