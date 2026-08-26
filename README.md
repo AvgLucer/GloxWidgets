@@ -35,7 +35,7 @@ The collection is continuously growing.
 Some of the widgets currently included:
 
 - 🕐 **Glox Quartz** — Circular desktop clock
-
+- 🎙️ **GloxAud** — Hardware microphone control and privacy utility
 
 And more are being developed.
 
