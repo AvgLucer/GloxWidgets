@@ -10,6 +10,31 @@
 
 The project focuses on providing users with a dedicated **Lens-style desktop experience**, combining a clean interface with the Glox visual identity.
 
+
+<p align="center">
+
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/Glox-Lens-brown?style=for-the-badge" alt="Glox Lens">
+  </a>
+
+  <a href="https://github.com/AvgLucer/GloxWidgets">
+    <img src="https://img.shields.io/badge/Glox%20Industries-Glox%20Widgets-8B6F47?style=for-the-badge" alt="Glox Widgets">
+  </a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+
+  <img src="https://img.shields.io/badge/GUI-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6">
+
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+
+  <img src="https://img.shields.io/badge/Status-Released-success?style=flat-square" alt="Released">
+
+</p>
+
 ---
 
 ## 📌 Project Overview
