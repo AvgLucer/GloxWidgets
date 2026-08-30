@@ -1,4 +1,8 @@
 # 🔍 Glox Lens
+<p align="center">
+  <img src="banner.png" alt="Glox Lens Banner" width="100%">
+</p>
+
 
 > **A Glox Industries project by AvgLucer | Gaurav W**
 
