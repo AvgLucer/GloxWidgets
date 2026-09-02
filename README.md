@@ -34,13 +34,44 @@ The collection is continuously growing.
 
 Some of the widgets currently included:
 
-🕐 Glox Quartz — Circular desktop clock
-🎙️ GloxAud — Hardware microphone control and privacy utility
-🎉 GloxCelebrate — Desktop celebration and visual effects widget
-🔍 GloxLens — Lightweight screen magnifier and visual inspection utility
-🔲 Glox QR — QR code generation and customization studio
+🎧 **GloxAud**
+Audio-focused desktop widget for a clean and simple listening experience.
 
-And more are being developed.
+---
+
+🎉 **GloxCelebrate**
+Desktop celebration widget featuring interactive visual effects and animations.
+
+---
+
+📋 **GloxClipboard**
+Lightweight clipboard utility for quickly managing copied content.
+
+---
+
+🔍 **GloxLens**
+Accessibility-focused desktop magnifier with customizable viewing options.
+
+---
+
+🎵 **GloxMusic**
+Modern desktop music player with local playback, visualizers, themes, and a polished UI.
+
+---
+
+🪐 **GloxOrbit**
+Modern desktop widget built around a sleek orbital-style interface.
+
+---
+
+🔲 **GloxQR**
+QR code studio for generating, previewing, customizing, and saving QR codes.
+
+---
+
+💎 **GloxQuartz**
+Lightweight desktop widget designed with the polished Glox aesthetic.
+---------------------------------------------------------------------
 
 
 👨‍💻 Built By:
