@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/glox_snap.png" alt="GLOX SNAP" width="700">
+  <img src="banner.png" alt="GLOX SNAP" width="700">
 </p>
 
 ### Lightweight Screenshot Utility for Windows
