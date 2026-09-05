@@ -15,6 +15,16 @@ Designed to stay **simple, lightweight, and distraction-free**.
 
 ---
 
+<p align="center">
+
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![License](https://img.shields.io/badge/License-See_Repository-555555?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge)
+
+</p>
+
 ## ✨ Features
 
 | Feature                          | Description                                                                       |
