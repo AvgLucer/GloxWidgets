@@ -54,6 +54,11 @@ Accessibility-focused desktop magnifier with customizable viewing options.
 
 ---
 
+⌨️ **GloxMacros**
+Desktop macro utility for creating and managing customizable keyboard and mouse macros.
+
+---
+
 🎵 **GloxMusic**
 Modern desktop music player with local playback, visualizers, themes, and a polished UI.
 
@@ -64,6 +69,11 @@ Modern desktop widget built around a sleek orbital-style interface.
 
 ---
 
+🐾 **GloxPet**
+Interactive desktop companion widget designed to bring a small animated pet experience to your desktop.
+
+---
+
 🔲 **GloxQR**
 QR code studio for generating, previewing, customizing, and saving QR codes.
 
@@ -71,7 +81,12 @@ QR code studio for generating, previewing, customizing, and saving QR codes.
 
 💎 **GloxQuartz**
 Lightweight desktop widget designed with the polished Glox aesthetic.
----------------------------------------------------------------------
+
+---
+
+📸 **GloxSnap**
+Lightweight screenshot widget for quickly capturing and managing screenshots from the desktop.
+
 
 
 👨‍💻 Built By:
