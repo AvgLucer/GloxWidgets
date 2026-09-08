@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="GloxWatcher Banner" width="100%">
+<p align="center">
+  <img src="banner.png" alt="GloxWatcher Banner" width="100%">
+</p>
 
 # GloxWatcher
 
