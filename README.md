@@ -33,60 +33,93 @@ From clocks and system utilities to productivity tools and desktop companions, e
 The collection is continuously growing.
 
 Some of the widgets currently included:
-
-🎧 **GloxAud**
+🎧 **GloxAud**  
 Audio-focused desktop widget for a clean and simple listening experience.
 
 ---
 
-🎉 **GloxCelebrate**
+🎉 **GloxCelebrate**  
 Desktop celebration widget featuring interactive visual effects and animations.
 
 ---
 
-📋 **GloxClipboard**
+📋 **GloxClipboard**  
 Lightweight clipboard utility for quickly managing copied content.
 
 ---
 
-🔍 **GloxLens**
+🔍 **GloxLens**  
 Accessibility-focused desktop magnifier with customizable viewing options.
 
 ---
 
-⌨️ **GloxMacros**
+⌨️ **GloxMacros**  
 Desktop macro utility for creating and managing customizable keyboard and mouse macros.
 
 ---
 
-🎵 **GloxMusic**
+🎵 **GloxMusic**  
 Modern desktop music player with local playback, visualizers, themes, and a polished UI.
 
 ---
 
-🪐 **GloxOrbit**
+🪐 **GloxOrbit**  
 Modern desktop widget built around a sleek orbital-style interface.
 
 ---
 
-🐾 **GloxPet**
+🐾 **GloxPet**  
 Interactive desktop companion widget designed to bring a small animated pet experience to your desktop.
 
 ---
 
-🔲 **GloxQR**
+🔲 **GloxQR**  
 QR code studio for generating, previewing, customizing, and saving QR codes.
 
 ---
 
-💎 **GloxQuartz**
+💎 **GloxQuartz**  
 Lightweight desktop widget designed with the polished Glox aesthetic.
 
 ---
 
-📸 **GloxSnap**
+📸 **GloxSnap**  
 Lightweight screenshot widget for quickly capturing and managing screenshots from the desktop.
 
+---
+
+✈️ **GloxAir**  
+Lightweight offline desktop voice-command utility designed for quick and convenient hands-free control.
+
+---
+
+📊 **GloxBar**  
+Compact desktop widget providing quick access to useful information and controls through a clean bar-style interface.
+
+---
+
+⬇️ **GloxDownloader**  
+Desktop download manager for downloading online media with a simple and polished interface.
+
+---
+
+📚 **GloxLibrary**  
+Lightweight desktop library for organizing and launching your local games and applications from one place.
+
+---
+
+🔄 **GloxRelay**  
+Lightweight desktop utility designed to provide quick and convenient system interactions through a streamlined interface.
+
+---
+
+🔐 **GloxVault**  
+Secure desktop vault for protecting and managing private files with encrypted local storage.
+
+---
+
+⏱️ **GloxWatcher**  
+Compact desktop timer and stopwatch widget with customizable themes and an always-on-top interface.
 
 
 👨‍💻 Built By:
