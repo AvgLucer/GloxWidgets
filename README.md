@@ -126,5 +126,7 @@ Compact desktop timer and stopwatch widget with customizable themes and an alway
 AvgLucer | Gaurav W.
 Founder & CEO, Glox Industries
 
+
+Note: These Widgets are for User , Educational , Teaching Purposes Only and not to be claimed as own projects. 
 ---
 
